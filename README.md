@@ -33,6 +33,7 @@ This project provides a command-line interface (CLI) for ISO 8583 message operat
 - **Field 41** - Card Acceptor Terminal ID
 - **Field 49** - Currency Code
 
+
 ## Prerequisites
 
 - Java 11 or higher
